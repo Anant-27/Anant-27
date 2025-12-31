@@ -10,7 +10,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%8F%86;Always+Learning+%F0%9F%9A%80;Building+the+Future+%E2%9C%A8" alt="Typing SVG" />
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=ArnavPandey1&label=Profile%20Visitors&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Anant-27&label=Profile%20Visitors&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -21,7 +21,7 @@
 <div align="center">
 
 <pre>
-┌──(arnav@builder)-[~/profile]
+┌──(anant@builder)-[~/profile]
 └─$ whoami
 &gt; Full-Stack Developer | Problem Solver | Rapid Prototyper
 
@@ -59,7 +59,7 @@
 <img align="right" alt="Coding Animation" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```typescript
-const ArnavPandey = {
+const AnantSeth = {
     location: "India",
     role: "Aspiring Full-Stack Developer",
     education: "Computer Science",
@@ -90,8 +90,8 @@ const ArnavPandey = {
 - 🔭 **Currently Building:** Interactive web applications & solving complex problems  
 - 🌱 **Learning:** Advanced algorithms, system design, and cloud architecture  
 - 💬 **Ask Me About:** Data Structures, Web Development, Problem Solving  
-- 📫 **Reach Me:** [pandeyarnav1122004@gmail.com](mailto:pandeyarnav1122004@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/arnavpandey1](https://linkedin.com/in/arnavpandey1)  
+- 📫 **Reach Me:** [anantseth2709@gmail.com](mailto:anantseth2709@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/anant-seth-602272307](https://linkedin.com/in/anant-seth-602272307)  
 - ⚡ **Fun Fact:** I debug code faster than I debug my life choices 😄  
 - 🎯 **2026 Goal:** Contribute to major open source projects & master DSA , AI & ML , and full-stack development  
 
@@ -101,11 +101,11 @@ const ArnavPandey = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnavpandey1/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/arnavpandey2004/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ArnavPandey)
-[![Codolio](https://img.shields.io/badge/Codolio-0A0A0A?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/Arnav_Pandey)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandeyarnav1122004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-seth-602272307/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Anant-27/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Anant-27)
+[![Codolio](https://img.shields.io/badge/Codolio-0A0A0A?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/Anant-27)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anantseth2709@gmail.com)
 
 </div>
 
@@ -171,14 +171,14 @@ const ArnavPandey = {
 <div align="center">
 
 <!-- GitHub Stats Cards -->
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArnavPandey1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArnavPandey1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anant-27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anant-27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8"/>
 
 <!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavPandey1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant-27&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavPandey1&custom_title=Arnav%20Pandey's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anant-27&custom_title=Anant%20Seth's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 ---
