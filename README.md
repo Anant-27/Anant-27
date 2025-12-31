@@ -159,8 +159,7 @@ const AnantSeth = {
 ---
 
 ## 🏆 Key Highlights
-- 💻 CS student & aspiring Full-Stack Developer  
-- 📊 650+ GitHub contributions showing consistency  
+- 💻 CS student & aspiring Full-Stack Developer   
 - 🧠 Strong focus on DSA and problem solving  
 - 🚀 Actively building real-world web applications  
 - 🌱 Always learning, improving, and shipping code
@@ -205,10 +204,10 @@ const AnantSeth = {
 <div align="center">
 
 <!-- Detailed Contribution Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArnavPandey1&theme=tokyonight" alt="Contribution Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anant-27&theme=tokyonight" alt="Contribution Details"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArnavPandey1&theme=tokyonight" alt="Top Languages by Repo"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArnavPandey1&theme=tokyonight" alt="Top Languages by Commit"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anant-27&theme=tokyonight" alt="Top Languages by Repo"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anant-27&theme=tokyonight" alt="Top Languages by Commit"/>
 
 </div>
 
